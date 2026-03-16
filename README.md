@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kumara
+# Hi there 👋 I'm Pasindu Lakshan
 
 🎓 Computer Engineering Undergraduate  
 🤖 Aspiring AI/ML Engineer  
