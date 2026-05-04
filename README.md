@@ -2,19 +2,15 @@
 
 # Hi 🤖, I'm Pasindu Lakshan
 
-### The Journey of a Passionate Sri Lankan AI / ML Engineer
+### The Journey of a Passionate AI / ML Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=pasindu-lakshan&color=blue&style=flat)
-
-[![Follow](https://img.shields.io/github/followers/pasindu-lakshan?label=Follow%20%40pasindu-lakshan&style=social)](https://github.com/pasindu-lakshan)
 
 </div>
 
 - 🔭 I'm currently working on **Multilingual Agentic AI Banking Assistant**
 - 🌱 I'm currently learning at **University of Ruhuna**
 - 👯 I'm looking to collaborate on **AI / ML Projects**
-- 🤔 I'm looking for help with **Large Language Model Fine-tuning**
-- 💬 Ask me about **LangChain | LLaMA | TensorFlow | FastAPI | Spring Boot**
+- 💬 Ask me about **LangChain | LangGraph | RAG | LLMs | TensorFlow | FastAPI | Spring Boot**
 - 📫 How to reach me: **pasindulakshanweerappulli@gmail.com**
 
 ---
